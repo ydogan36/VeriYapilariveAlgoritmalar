@@ -1,5 +1,5 @@
 # Proje 1 Insertion Sort Porjesi
-[patika.dev](patika.dev)
+[patika.dev](https://www.patika.dev/tr)
 ## Insertion Sort Aşamaları
 
 ```
